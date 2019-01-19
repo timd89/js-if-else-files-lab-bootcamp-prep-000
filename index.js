@@ -1,4 +1,4 @@
-var name = "susan"
+var name = "Susan"
 var height = "74"
  
 // Don't worry about this
